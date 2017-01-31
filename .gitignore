@@ -1,0 +1,9 @@
+packages/
+WCFAccountService/bin/
+AccountDomain/bin/
+AccountDomain/obj/
+WCFAccountService/obj/
+WCFHost/bin/
+WCFHost/obj/
+AccountClient/obj/
+AccountClient/bin/

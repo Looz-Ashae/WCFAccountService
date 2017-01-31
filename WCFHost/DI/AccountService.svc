@@ -1,0 +1,4 @@
+﻿<%@ ServiceHost 
+    Language="C#" 
+    Service="WCFAccountService.IAccountService, WCFAccountService" 
+    Factory="Autofac.Integration.Wcf.AutofacServiceHostFactory, Autofac.Integration.Wcf" %>
